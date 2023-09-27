@@ -48,7 +48,7 @@ class Program
             {
                 CalculateRange Calculator = new CalculateRange(numbers);
                 int total = Calculator.Sum(inputStart, inputEnd);
-                Console.WriteLine($"The sum is: {total}");
+                Console.WriteLine($"The Sum is: {total}");
             }
 
             else
