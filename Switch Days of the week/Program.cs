@@ -1,7 +1,6 @@
 ﻿// Program to read in a string for day of the week and use a switch statement(learning points: switch)
 
 using System;
-using System.Collections;
 
 class Program
 {
