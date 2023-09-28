@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum of Integer Array", "Sum
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial", "Factorial\Factorial.csproj", "{BFE8AE42-2F4B-4011-8EC6-057344E08999}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array String in Reverse", "Array String in Reverse\Array String in Reverse.csproj", "{9F92F2B3-3479-4FDC-BC4E-CA4635504EE0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{BFE8AE42-2F4B-4011-8EC6-057344E08999}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFE8AE42-2F4B-4011-8EC6-057344E08999}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFE8AE42-2F4B-4011-8EC6-057344E08999}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F92F2B3-3479-4FDC-BC4E-CA4635504EE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F92F2B3-3479-4FDC-BC4E-CA4635504EE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F92F2B3-3479-4FDC-BC4E-CA4635504EE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F92F2B3-3479-4FDC-BC4E-CA4635504EE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
