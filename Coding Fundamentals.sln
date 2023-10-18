@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Write List to a File", "Wri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance basics", "Inheritance basics\Inheritance basics.csproj", "{2C1B59A6-8603-400B-8ACE-0C0D15ABF53C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance - Virtual, Override", "Inheritance - Virtual, Override\Inheritance - Virtual, Override.csproj", "{4D5F77E7-7D85-442C-8F7F-29708B6F04CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{2C1B59A6-8603-400B-8ACE-0C0D15ABF53C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C1B59A6-8603-400B-8ACE-0C0D15ABF53C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C1B59A6-8603-400B-8ACE-0C0D15ABF53C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D5F77E7-7D85-442C-8F7F-29708B6F04CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D5F77E7-7D85-442C-8F7F-29708B6F04CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D5F77E7-7D85-442C-8F7F-29708B6F04CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D5F77E7-7D85-442C-8F7F-29708B6F04CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
