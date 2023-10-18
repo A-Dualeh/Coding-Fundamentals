@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lists-Objects", "Lists-Obje
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Write List to a File", "Write List to a File\Write List to a File.csproj", "{A55654A7-1A29-4296-AA5A-2051EF79FEE6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance basics", "Inheritance basics\Inheritance basics.csproj", "{2C1B59A6-8603-400B-8ACE-0C0D15ABF53C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{A55654A7-1A29-4296-AA5A-2051EF79FEE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A55654A7-1A29-4296-AA5A-2051EF79FEE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A55654A7-1A29-4296-AA5A-2051EF79FEE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C1B59A6-8603-400B-8ACE-0C0D15ABF53C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C1B59A6-8603-400B-8ACE-0C0D15ABF53C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C1B59A6-8603-400B-8ACE-0C0D15ABF53C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C1B59A6-8603-400B-8ACE-0C0D15ABF53C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
