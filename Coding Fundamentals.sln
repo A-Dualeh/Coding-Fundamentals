@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance - Virtual, Over
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings - Palindrome", "Strings - Palindrome\Strings - Palindrome.csproj", "{17371381-F5CB-4110-BFB8-B96B59520F38}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance - extending Palindrome program", "Inheritance - extending Palindrome program\Inheritance - extending Palindrome program.csproj", "{80E52E2D-7F27-49F2-9607-8022E8F6A332}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{17371381-F5CB-4110-BFB8-B96B59520F38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17371381-F5CB-4110-BFB8-B96B59520F38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17371381-F5CB-4110-BFB8-B96B59520F38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80E52E2D-7F27-49F2-9607-8022E8F6A332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80E52E2D-7F27-49F2-9607-8022E8F6A332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80E52E2D-7F27-49F2-9607-8022E8F6A332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80E52E2D-7F27-49F2-9607-8022E8F6A332}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
