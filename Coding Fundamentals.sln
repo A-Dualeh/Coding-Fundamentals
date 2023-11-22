@@ -15,15 +15,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reading and Writing to File
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lists-Objects", "Lists-Objects\Lists-Objects.csproj", "{ED24C7DE-4C72-4F87-9561-B3F0EC4DFEA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Write List to a File", "Write List to a File\Write List to a File.csproj", "{A55654A7-1A29-4296-AA5A-2051EF79FEE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Write List to a File", "Write List to a File\Write List to a File.csproj", "{A55654A7-1A29-4296-AA5A-2051EF79FEE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance basics", "Inheritance basics\Inheritance basics.csproj", "{2C1B59A6-8603-400B-8ACE-0C0D15ABF53C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance basics", "Inheritance basics\Inheritance basics.csproj", "{2C1B59A6-8603-400B-8ACE-0C0D15ABF53C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance - Virtual, Override", "Inheritance - Virtual, Override\Inheritance - Virtual, Override.csproj", "{4D5F77E7-7D85-442C-8F7F-29708B6F04CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance - Virtual, Override", "Inheritance - Virtual, Override\Inheritance - Virtual, Override.csproj", "{4D5F77E7-7D85-442C-8F7F-29708B6F04CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings - Palindrome", "Strings - Palindrome\Strings - Palindrome.csproj", "{17371381-F5CB-4110-BFB8-B96B59520F38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strings - Palindrome", "Strings - Palindrome\Strings - Palindrome.csproj", "{17371381-F5CB-4110-BFB8-B96B59520F38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance - extending Palindrome program", "Inheritance - extending Palindrome program\Inheritance - extending Palindrome program.csproj", "{80E52E2D-7F27-49F2-9607-8022E8F6A332}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance - extending Palindrome program", "Inheritance - extending Palindrome program\Inheritance - extending Palindrome program.csproj", "{80E52E2D-7F27-49F2-9607-8022E8F6A332}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bird Watchers", "Bird Watcher\Bird Watchers.csproj", "{C78F87C8-8347-4C14-BDCB-0F95A1AC9877}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{80E52E2D-7F27-49F2-9607-8022E8F6A332}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80E52E2D-7F27-49F2-9607-8022E8F6A332}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80E52E2D-7F27-49F2-9607-8022E8F6A332}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C78F87C8-8347-4C14-BDCB-0F95A1AC9877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C78F87C8-8347-4C14-BDCB-0F95A1AC9877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C78F87C8-8347-4C14-BDCB-0F95A1AC9877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C78F87C8-8347-4C14-BDCB-0F95A1AC9877}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
