@@ -30,34 +30,19 @@ namespace Bird_Watcher
 
         public bool HasDayWithoutBirds()
         {
-            return birdsPerDay.Any(Days => Days == 0); // Checks if array has elements with value 0, returns true or false
+            return birdsPerDay.Contains(0); // Checks if array has elements with value 0, returns true or false
         }
 
         public int CountForFirstDays(int DaystoSum)
         {
-            int sum= 0; //initialises the sum to zero
-            {
-                for(int i = 0; i < DaystoSum; i++) //loops through the array up to the DaystoSum value passed to the method
-                {
-                    sum += birdsPerDay[i]; //increments the sum
-                }
-            }
-            return sum;
+            
+            return birdsPerDay.Take(DaystoSum).Sum(); // Returns the sum of the array up to the given index in DaystoSum
         }
 
         public int BusyDays()
         {
             {
-                int busydays = 0;
-
-                foreach (int birds in birdsPerDay)
-                {
-                    if (birds >= 5) //checks if the number of birds visiting is greater or equal to 5
-                    {
-                        busydays++; //increments the count of the busy days if >=5
-                    }
-                }
-                return busydays;
+                return birdsPerDay.Count(day => day >= 5); // Returns the count of elements in the array that are >=5
             }
         }
     }

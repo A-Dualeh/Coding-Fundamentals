@@ -30,8 +30,7 @@ namespace Bird_Watcher
             Console.WriteLine($"Incremented Bird Count: {birdCount.Today()}"); //print the updated count using Today method
 
             //4. Check if there was a day with no visiting birds
-            Console.Write("Visting Birds: ");
-            Console.WriteLine($"{birdCount.HasDayWithoutBirds()}"); //calls HasDayWithoutBirds method 
+            Console.WriteLine($"Visiting Birds(T/F): {birdCount.HasDayWithoutBirds()}"); //calls HasDayWithoutBirds method 
 
             //5. Calculate the number of visiting birds for the first number of days
             Console.WriteLine($"Number of Birds for the past 4 days: {birdCount.CountForFirstDays(4)}"); //calls CountForFirstDays method
