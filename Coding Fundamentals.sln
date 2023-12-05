@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bird Watchers", "Bird Watch
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Misc Projects", "Misc Projects", "{F1F30C15-2667-4807-AFDC-4B299B82E8B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Need for Speed", "Need for Speed\Need for Speed.csproj", "{BC10FAEC-733C-479C-A31F-029EA4B49841}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,6 +85,10 @@ Global
 		{C78F87C8-8347-4C14-BDCB-0F95A1AC9877}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C78F87C8-8347-4C14-BDCB-0F95A1AC9877}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C78F87C8-8347-4C14-BDCB-0F95A1AC9877}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC10FAEC-733C-479C-A31F-029EA4B49841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC10FAEC-733C-479C-A31F-029EA4B49841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC10FAEC-733C-479C-A31F-029EA4B49841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC10FAEC-733C-479C-A31F-029EA4B49841}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
